@@ -1,4 +1,4 @@
-# COMPUTER-VISION-PROJECT-BANANA-DETECTION-
+# Object Detection from scratch
 
 Details about the project are explained in "report.pdf".
 
