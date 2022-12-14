@@ -1,6 +1,6 @@
 # Object Detection from scratch
 
-Details about the project are explained in "report.pdf".
+Details about the project are explained in ["report.pdf"](https://github.com/burlakorkmaz/Computer-Vision-Project-Object-Detection-from-scratch/blob/master/report.pdf).
 
 ## Output
 
